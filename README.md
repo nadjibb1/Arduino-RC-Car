@@ -1,5 +1,6 @@
 # Arduino-RC-Car 
 In this project, I developed an RC car using Arduino Uno, equipped with Bluetooth connectivity to switch between different operational modes: manual control, obstacle avoidance, and line following.
+The car has 2 dc motors to move controlled by L298 Driver.
 The car featured an HC-05 Bluetooth module for wireless communication, allowing users to control the car via a smartphone app.
 In manual mode, users could directly control the car’s movements.
 The obstacle avoidance mode utilized ultrasonic sensors to detect and navigate around obstacles autonomously. 
