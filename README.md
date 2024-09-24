@@ -10,9 +10,9 @@ Bleutooth: RX pin D2 / TX pin D3.<br>
 Right IR Sensor: pin A0 / Left IR Sensor: pin A1.<br>
 UltraSonic Sensor: Echo pin A2 / Trigger pin A3.<br>
 Servo Motor pin A4.<br>
-L298 Pin enA to pin 10
-L298 Pin in1 to pin D9
-L298 Pin in2 to pin D8
-L298 Pin in3 to pin D7
-L298 Pin in4 to pin D6
+L298 Pin enA to pin 10<br>
+L298 Pin in1 to pin D9<br>
+L298 Pin in2 to pin D8<br>
+L298 Pin in3 to pin D7<br>
+L298 Pin in4 to pin D6<br>
 L298 Pin enB to pin D5
