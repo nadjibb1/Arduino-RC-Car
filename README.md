@@ -6,10 +6,10 @@ In manual mode, users could directly control the car’s movements.
 The obstacle avoidance mode utilized ultrasonic sensors to detect and navigate around obstacles autonomously. 
 The line follower mode employed infrared sensors to track and follow a predefined path.
 # Hardware connections
-Bleutooth: RX pin D2 / TX pin D3.
-Right IR Sensor: pin A0 / Left IR Sensor: pin A1.
-UltraSonic Sensor: Echo pin A2 / Trigger pin A3.
-Servo Motor pin A4.
+Bleutooth: RX pin D2 / TX pin D3.<br>
+Right IR Sensor: pin A0 / Left IR Sensor: pin A1.<br>
+UltraSonic Sensor: Echo pin A2 / Trigger pin A3.<br>
+Servo Motor pin A4.<br>
 L298 Pin enA to pin 10
 L298 Pin in1 to pin D9
 L298 Pin in2 to pin D8
